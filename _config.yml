@@ -2,3 +2,5 @@
   theme: jekyll-theme-cayman
   github:
     is_project_page: false
+
+theme: jekyll-theme-cayman
